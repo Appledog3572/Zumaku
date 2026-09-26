@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e2056017ba360b4bbc3bb2f877c335a, type: 3}
+  m_Name: LightBluePattern
+  m_EditorClassIdentifier: Assembly-CSharp::BounceShotPattern
+  bulletPrefab: {fileID: 5752831093245923629, guid: 29d4c97905eda1c4294e08ecdf7b7ad2, type: 3}
+  bulletNumber: 030000000500000007000000
+  bulletSpeed: 8
+  bulletAngle: 15
+  bulletLifetime: 3

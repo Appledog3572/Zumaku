@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d90286e15ef55dc4683b293657dedb1b, type: 3}
+  m_Name: BluePattern
+  m_EditorClassIdentifier: Assembly-CSharp::SniperShotPattern1
+  bulletPrefab: {fileID: 5752831093245923629, guid: 9ff6dda403fc4f54895d881c8452276a, type: 3}
+  bulletNumber: 030000000500000007000000
+  bulletSpeed: 6
+  bulletLifetime: 5
